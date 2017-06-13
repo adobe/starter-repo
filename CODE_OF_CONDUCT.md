@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Adobe Code of Conduct
 
 ## Our Pledge
 
