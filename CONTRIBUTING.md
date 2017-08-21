@@ -6,7 +6,7 @@ The following are a set of guidelines to follow when contributing to this projec
 
 ## Code Of Conduct
 
-This project adheres to the Adobe [code of conduct](SOMELINK). By participating, you are expected to uphold this code. Please report unacceptable behavior to SOMEEMAIL.
+This project adheres to the Adobe [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to SOMEEMAIL.
 
 ## Contributor License Agreement
 
