@@ -14,7 +14,7 @@ OF ANY KIND, either express or implied. See the License for the specific languag
 governing permissions and limitations under the License.
 ```
 
-### Javascript, Java, C, C++, Swift, Go, Objetive C
+### Javascript, Java, C, C++, Swift, Go, Objective C
 
 ```
 /*
