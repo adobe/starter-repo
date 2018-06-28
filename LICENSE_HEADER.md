@@ -65,8 +65,6 @@ We will continue to add examples of headers for other licenses as they come up. 
 To learn more about Adobe copyright, checkout our [Copyrights documentation](https://inside.corp.adobe.com/intellectual-property/copyrights.html#jcr-content_par_tab_Adobe-Copyright-Notices).
 
 ```
-ADOBE CONFIDENTIAL
-
 Copyright [first year code created] Adobe
 
 All Rights Reserved.
