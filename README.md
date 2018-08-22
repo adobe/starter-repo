@@ -30,7 +30,3 @@ Contributions are welcomed! Read the [Contributing Guide](CONTRIBUTING.md) for m
 ### Licensing
 
 This project is licensed under the Apache V2 License. See [LICENSE](LICENSE) for more information.
-
-### TODO
-
-Make sure to set the correct year(s) in the COPYRIGHT file.
