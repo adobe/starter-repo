@@ -1,10 +1,16 @@
 ## PROJECT NAME
 
-Please add a short description of what your project does
+Please add a short description of what your project does.
+
+## Goals
+
+It is a good idea to provide a mission statement for your project, enshrining
+what the project wants to accomplish so that as more people join your project
+everyone works in alignment.
 
 ### Installation
 
-Instructions for how to download/install the code onto your machine
+Instructions for how to download/install the code onto your machine.
 
 Example:
 ```
@@ -13,7 +19,7 @@ npm install myProject --save
 
 ### Usage
 
-Usage instructions for your code
+Usage instructions for your code.
 
 Example:
 
