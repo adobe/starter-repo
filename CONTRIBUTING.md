@@ -41,3 +41,7 @@ be invited to the project. The existing committers employ an internal nomination
 process that must reach lazy consensus (silence is approval) before invitations
 are issued. If you feel you are qualified and want to get more deeply involved,
 feel free to reach out to existing committers to have a conversation about that.
+
+## Security Issues
+
+Security issues shouldn't be reported on this issue tracker. Instead, [file an issue to our security experts](https://helpx.adobe.com/security/alertus.html)
