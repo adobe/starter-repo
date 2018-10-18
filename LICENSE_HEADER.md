@@ -30,7 +30,7 @@ governing permissions and limitations under the License.
 */
 ```
 
-### Bash & Ruby
+### Bash, Ruby, Python 
 
 ```
 #Copyright 2018 Adobe. All rights reserved.
@@ -64,6 +64,8 @@ We will continue to add examples of headers for other licenses as they come up. 
 
 To learn more about Adobe copyright, checkout our [Copyrights documentation](https://inside.corp.adobe.com/intellectual-property/copyrights.html#jcr-content_par_tab_Adobe-Copyright-Notices).
 
+### Text
+
 ```
 Copyright 2018 Adobe
 All Rights Reserved.
@@ -73,4 +75,32 @@ accordance with the terms of the Adobe license agreement accompanying
 it. If you have received this file from a source other than Adobe,
 then your use, modification, or distribution of it requires the prior
 written permission of Adobe. 
+```
+
+### Javascript, Java, C, C++, Swift, Go, Objective C
+
+```
+/*
+Copyright 2018 Adobe
+All Rights Reserved.
+
+NOTICE: Adobe permits you to use, modify, and distribute this file in
+accordance with the terms of the Adobe license agreement accompanying
+it. If you have received this file from a source other than Adobe,
+then your use, modification, or distribution of it requires the prior
+written permission of Adobe. 
+*/
+```
+
+### Bash, Ruby, Python 
+
+```
+# Copyright 2018 Adobe
+# All Rights Reserved.
+
+# NOTICE: Adobe permits you to use, modify, and distribute this file in
+# accordance with the terms of the Adobe license agreement accompanying
+# it. If you have received this file from a source other than Adobe,
+# then your use, modification, or distribution of it requires the prior
+# written permission of Adobe. 
 ```
