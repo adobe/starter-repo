@@ -3,7 +3,7 @@ Below we have an examples of copyright + license source code headers. The licens
 # Apache V2
 
 ```
-Copyright 2018 Adobe. All rights reserved.
+Copyright 2019 Adobe. All rights reserved.
 This file is licensed to you under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License. You may obtain a copy
 of the License at http://www.apache.org/licenses/LICENSE-2.0
@@ -18,7 +18,7 @@ governing permissions and limitations under the License.
 
 ```
 /*
-Copyright 2018 Adobe. All rights reserved.
+Copyright 2019 Adobe. All rights reserved.
 This file is licensed to you under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License. You may obtain a copy
 of the License at http://www.apache.org/licenses/LICENSE-2.0
@@ -33,7 +33,7 @@ governing permissions and limitations under the License.
 ### Bash, Ruby, Python 
 
 ```
-#Copyright 2018 Adobe. All rights reserved.
+#Copyright 2019 Adobe. All rights reserved.
 #This file is licensed to you under the Apache License, Version 2.0 (the "License");
 #you may not use this file except in compliance with the License. You may obtain a copy
 #of the License at http://www.apache.org/licenses/LICENSE-2.0
@@ -47,7 +47,7 @@ governing permissions and limitations under the License.
 ### Windows Batch File
 
 ```batch
-rem Copyright 2018 Adobe. All rights reserved.
+rem Copyright 2019 Adobe. All rights reserved.
 rem This file is licensed to you under the Apache License, Version 2.0 (the "License");
 rem you may not use this file except in compliance with the License. You may obtain a copy
 rem of the License at http://www.apache.org/licenses/LICENSE-2.0
@@ -67,7 +67,7 @@ To learn more about Adobe copyright, checkout our [Copyrights documentation](htt
 ### Text
 
 ```
-Copyright 2018 Adobe
+Copyright 2019 Adobe
 All Rights Reserved.
 
 NOTICE: Adobe permits you to use, modify, and distribute this file in
@@ -81,7 +81,7 @@ written permission of Adobe.
 
 ```
 /*
-Copyright 2018 Adobe
+Copyright 2019 Adobe
 All Rights Reserved.
 
 NOTICE: Adobe permits you to use, modify, and distribute this file in
@@ -95,7 +95,7 @@ written permission of Adobe.
 ### Bash, Ruby, Python 
 
 ```
-# Copyright 2018 Adobe
+# Copyright 2019 Adobe
 # All Rights Reserved.
 
 # NOTICE: Adobe permits you to use, modify, and distribute this file in
