@@ -14,6 +14,11 @@ It is a good idea to provide a mission statement for your project, enshrining
 what the project wants to accomplish so that as more people join your project
 everyone can work in alignment.
 
+## Non-Goals
+
+It is also a good idea to declare what are _not_ goals of the project to prevent
+potential feature creep.
+
 ### Installation
 
 Instructions for how to download/install the code onto your machine.
