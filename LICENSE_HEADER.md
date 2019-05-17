@@ -58,6 +58,15 @@ rem OF ANY KIND, either express or implied. See the License for the specific lan
 rem governing permissions and limitations under the License.
 ```
 
+# Magento Projects
+
+### Text
+
+```
+Copyright © Magento, Inc. All rights reserved.
+See COPYING.txt for license details.
+```
+
 # Other Licenses
 
 We will continue to add examples of headers for other licenses as they come up. For now, if you are not using Apache V2, make sure to add a copyright header to all source files where it makes sense (do not add them to `.json` or machine-generated files).
