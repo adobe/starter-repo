@@ -15,7 +15,7 @@ The Magento 2 development team will review all issues and contributions submitte
 3. Commits must be accompanied by meaningful commit messages. Please see the [Magento Pull Request Template](https://github.com/magento/magento2/blob/2.2-develop/.github/PULL_REQUEST_TEMPLATE.md) for more information.
 4. PRs which include bug fixes must be accompanied with a step-by-step description of how to reproduce the bug.
 3. PRs which include new logic or new features must be submitted along with:
-* Unit/integration test coverage
+* Unit/integration test coverage.
 * Proposed [documentation](https://devdocs.magento.com) updates. Documentation contributions can be submitted via the [devdocs GitHub](https://github.com/magento/devdocs).
 4. For larger features or changes, please [open an issue](https://github.com/magento/magento2/issues) to discuss the proposed changes prior to development. This may prevent duplicate or unnecessary effort and allow other contributors to provide input.
 5. All automated tests must pass (all builds on [Travis CI](https://travis-ci.org/magento/magento2) must be green).
