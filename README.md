@@ -11,7 +11,7 @@ A short description of what this project does.
 ## Goals
 
 It is a good idea to provide a mission statement for your project, enshrining
-what the project wants to accomplish so that as more people join your project
+what the project wants to accomplish so that as more people join your project,
 everyone can work in alignment.
 
 ## Non-Goals
