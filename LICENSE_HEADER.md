@@ -71,8 +71,6 @@ See COPYING.txt for license details.
 
 We will continue to add examples of headers for other licenses as they come up. For now, if you are not using Apache V2, make sure to add a copyright header to all source files where it makes sense (do not add them to `.json` or machine-generated files).
 
-To learn more about Adobe copyright, checkout our [Copyrights documentation](https://inside.corp.adobe.com/intellectual-property/copyrights.html#jcr-content_par_tab_Adobe-Copyright-Notices).
-
 ### Text
 
 ```
