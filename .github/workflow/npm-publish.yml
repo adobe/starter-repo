@@ -23,5 +23,5 @@ jobs:
         workspace: "."
       env: # More info about the environment variables in the README
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Leave this as is, it's automatically generated
-        NPM_AUTH_TOKEN: ${{ secrets.ADOBE_BOT_NPM_TOKEN }} # You need to set this in your repo settings
-        NPM_AUTH: ${{ secrets.ADOBE_BOT_NPM_TOKEN }} # You need to set this in your repo settings
+        NPM_AUTH_TOKEN: ${{ secrets.ADOBE_BOT_NPM_TOKEN }} # This will be shared with your repo as an org secret
+        NPM_AUTH: ${{ secrets.ADOBE_BOT_NPM_TOKEN }} # This will be shared with your repo as an org secret
