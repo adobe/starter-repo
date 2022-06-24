@@ -3,7 +3,7 @@ Below we have an examples of copyright + license source code headers. The licens
 # Apache V2
 
 ```
-Copyright 2021 Adobe. All rights reserved.
+Copyright 2022 Adobe. All rights reserved.
 This file is licensed to you under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License. You may obtain a copy
 of the License at http://www.apache.org/licenses/LICENSE-2.0
@@ -18,7 +18,7 @@ governing permissions and limitations under the License.
 
 ```js
 /*
-Copyright 2021 Adobe. All rights reserved.
+Copyright 2022 Adobe. All rights reserved.
 This file is licensed to you under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License. You may obtain a copy
 of the License at http://www.apache.org/licenses/LICENSE-2.0
@@ -33,7 +33,7 @@ governing permissions and limitations under the License.
 ### Bash, Ruby, Python 
 
 ```bash
-# Copyright 2021 Adobe. All rights reserved.
+# Copyright 2022 Adobe. All rights reserved.
 # This file is licensed to you under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License. You may obtain a copy
 # of the License at http://www.apache.org/licenses/LICENSE-2.0
@@ -47,7 +47,7 @@ governing permissions and limitations under the License.
 ### Windows Batch File
 
 ```batch
-rem Copyright 2021 Adobe. All rights reserved.
+rem Copyright 2022 Adobe. All rights reserved.
 rem This file is licensed to you under the Apache License, Version 2.0 (the "License");
 rem you may not use this file except in compliance with the License. You may obtain a copy
 rem of the License at http://www.apache.org/licenses/LICENSE-2.0
@@ -74,7 +74,7 @@ We will continue to add examples of headers for other licenses as they come up. 
 ### Text
 
 ```
-Copyright 2021 Adobe
+Copyright 2022 Adobe
 All Rights Reserved.
 
 NOTICE: Adobe permits you to use, modify, and distribute this file in
@@ -86,7 +86,7 @@ it.
 
 ```js
 /*
-Copyright 2021 Adobe
+Copyright 2022 Adobe
 All Rights Reserved.
 
 NOTICE: Adobe permits you to use, modify, and distribute this file in
@@ -98,7 +98,7 @@ it.
 ### Bash, Ruby, Python 
 
 ```bash
-# Copyright 2021 Adobe
+# Copyright 2022 Adobe
 # All Rights Reserved.
 
 # NOTICE: Adobe permits you to use, modify, and distribute this file in
