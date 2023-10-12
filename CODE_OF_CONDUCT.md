@@ -73,7 +73,7 @@ Consequence: A permanent ban from any interaction with the community.
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.1,
-available at [http://contributor-covenant.org/version/2/1][version]
+available at [https://contributor-covenant.org/version/2/1][version]
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/2/1
+[homepage]: https://contributor-covenant.org
+[version]: https://contributor-covenant.org/version/2/1
